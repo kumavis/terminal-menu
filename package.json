@@ -5,7 +5,7 @@
     "main": "index.js",
     "dependencies": {
         "resumer": "~0.0.0",
-        "charm": "~0.1.2",
+        "charm": "~1.0.1",
         "inherits": "~2.0.0"
     },
     "scripts": {
